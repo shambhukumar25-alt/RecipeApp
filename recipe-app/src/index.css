@@ -1,0 +1,42 @@
+
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  background: #f8fafc;
+}
+
+header {
+  padding: 15px;
+  background: #166534;
+  color: white;
+  border-radius: 8px;
+}
+
+header a {
+  color: white;
+}
+
+input {
+  display: block;
+  width: 280px;
+  padding: 12px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+p {
+  padding: 10px;
+  background: white;
+  border-radius: 6px;
+}
+
+a {
+  color: #166534;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
